@@ -10,6 +10,14 @@ Team Members:
 
 For our project, we would like to analyze historical SARS-CoV-2 variant data and how different variants are evolving the US over time. We will explore questions such as which variants are the most dominant, compare the dominancy of a specific COVID variant vs COVID death counts, and track how different variants are spreading through the specific Health and Human Services (HHS) regions over time.    
 
+### Repository Guide:
+This repository contains 4 main components:
+  1. A Jupyter Notebook file called 'COVID_variant_analysis.ipynb' that contains all the raw code used to generate our analysis
+  2. A folder called 'Results' which contains both the professional writeup as well as a power point presentation based on our findings
+  3. A folder called 'Resources' which contains two folders:
+    - A folder called 'Legends' which contains a few screenshots of relevant information to better understand the dataset and project
+    - A folder called 'Raw Data' which contains the raw covid death count data used for some of the analysis
+
 ### Datasets: 
   1.
   - Name: Weekly estimate of SARS-CoV-2 variant as a proportion of surveillance sequencing
@@ -38,3 +46,4 @@ For our project, we would like to analyze historical SARS-CoV-2 variant data and
 
 ### Resources / References
 1.  HHS Region Map: https://www.hhs.gov/about/agencies/iea/regional-offices/index.html
+2.  
