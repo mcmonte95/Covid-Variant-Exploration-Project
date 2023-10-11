@@ -46,4 +46,10 @@ This repository contains 4 main components:
 
 ### Resources / References
 1.  HHS Region Map: https://www.hhs.gov/about/agencies/iea/regional-offices/index.html
-2.  
+
+### Useful links:
+1. https://www.who.int/activities/tracking-SARS-CoV-2-variants
+2. https://www.yalemedicine.org/news/covid-eg5-eris-latest-coronavirus-strain
+
+
+
