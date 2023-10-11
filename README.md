@@ -15,8 +15,8 @@ This repository contains 4 main components:
   1. A Jupyter Notebook file called 'COVID_variant_analysis.ipynb' that contains all the raw code used to generate our analysis
   2. A folder called 'Results' which contains both the professional writeup as well as a power point presentation based on our findings
   3. A folder called 'Resources' which contains two folders:
-    - A folder called 'Legends' which contains a few screenshots of relevant information to better understand the dataset and project
-    - A folder called 'Raw Data' which contains the raw covid death count data used for some of the analysis
+  - A folder called 'Legends' which contains a few screenshots of relevant information to better understand the dataset and project
+  - A folder called 'Raw Data' which contains the raw covid death count data used for some of the analysis
 
 ### Datasets: 
   1.
