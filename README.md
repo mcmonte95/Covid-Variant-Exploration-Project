@@ -1,4 +1,4 @@
-# Covid Variants Exploration and Analysis
+# Covid Variant Exploration and Analysis
 
 ### Team Members
   - Matt Lantin
