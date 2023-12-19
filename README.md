@@ -1,11 +1,10 @@
-# Project1_Data_BC
-Project 1 for Data Analytics Boot Camp
+# Covid Variants Exploration and Analysis
 
-## Covid Variants Exploration
-Team Members:
+### Team Members
   - Matt Lantin
   - Cole Swartz
   - Michael Chiaramonte
+
 ### Project Description:
 
 For our project, we would like to analyze historical SARS-CoV-2 variant data and how different variants are evolving the US over time. We will explore questions such as which variants are the most dominant, compare the dominancy of a specific COVID variant vs COVID death counts, and track how different variants are spreading through the specific Health and Human Services (HHS) regions over time.    
